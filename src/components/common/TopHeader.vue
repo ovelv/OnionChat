@@ -23,9 +23,9 @@
           ></el-menu-item>
         </el-sub-menu>
         <el-menu-item
-          v-t="'common.nav.apiPlatform'"
+          v-t="'Onion AI'"
           @route="undefined"
-          @click="openTab('https://platform.acedata.cloud')"
+          @click="openTab('https://onionai.so')"
         ></el-menu-item>
         <el-menu-item
           v-t="'common.nav.support'"
