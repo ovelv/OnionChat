@@ -5,7 +5,7 @@
         <el-row>
           <el-col :span="24" class="text-center">
             <p>
-              <a href="https://platform.acedata.cloud">{{ $t('common.entity.website') }}</a> ©
+              <a href="https://chat.onionai.so">{{ $t('OnionAI Chat') }}</a> ©
               {{ new Date().getFullYear() }}
               {{ $t('common.entity.copyright') }}
             </p>

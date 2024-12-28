@@ -28,9 +28,9 @@
           @click="openTab('https://onionai.so')"
         ></el-menu-item>
         <el-menu-item
-          v-t="'common.nav.support'"
+          v-t="'AI Tools'"
           @route="undefined"
-          @click="openTab('https://platform.acedata.cloud/support')"
+          @click="openTab('https://links.onionai.so')"
         ></el-menu-item>
         <el-menu-item v-t="'common.nav.referral'" index="/distribution"></el-menu-item>
       </el-menu>
